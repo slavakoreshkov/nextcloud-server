@@ -69,7 +69,7 @@ git clone https://github.com/slavakoreshkov/nextcloud-server
 3. Скопируйте установочнй скрипт в корень проекта:
 
 ```shell
-cp nextcloud/install.sh .
+cp nextcloud-server/install.sh .
 ```
 
 
@@ -121,10 +121,16 @@ chmod +x install.sh
 
 Наконец, приступайте к изучению возможностей многочисленных сервисов **Nextcloud**
 
+Гостевой вход на сайт: [https://nextcloud.domain-demo.tk](https://nextcloud.domain-demo.tk)
+
+Логин: `guest@example.com`
+
+Пароль: `Guest!2345`
+
 <br>
 <hr>
 <div align="center">
-    <h3>У Вас есть какие либо вопросы?</h3>
+    <h3>Есть какие-либо вопросы?</h3>
     <a href="https://github.com/slavakoreshkov/nextcloud-server/issues"><img src="https://img.shields.io/badge/Справшивай-НЕ СТЕСНЯЙСЯ!!!-FF6600.svg?style=for-the-badge&link=https://github.com/slavakoreshkov/slavakoreshkovq/issues"/></a>
 </div>
 
