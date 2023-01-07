@@ -121,12 +121,6 @@ chmod +x install.sh
 
 Наконец, приступайте к изучению возможностей многочисленных сервисов **Nextcloud**
 
-Гостевой вход на сайт: [https://nextcloud.domain-demo.tk](https://nextcloud.domain-demo.tk)
-
-Логин: `guest@example.com`
-
-Пароль: `Guest!2345`
-
 <br>
 <hr>
 <div align="center">
